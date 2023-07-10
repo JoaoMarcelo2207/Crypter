@@ -1,0 +1,131 @@
+    @charset "UTF-8";
+    body{
+        background-color: black;
+        overflow-y: hidden;
+    }
+
+    h1{
+        font-family: "matrix";
+        font-size: 108px;
+        text-align: center;
+        color:rgb(17, 90, 23)
+    }
+
+    h2{
+        font-family: "matrix";
+        font-size:108px;
+        color:rgb(28, 202, 28);
+        text-align: center;
+        position: relative;
+        top: -190px;
+        left:5px
+
+    }
+
+    h3{
+        font-family: "matrix";
+        font-size: 30px;
+        color: greenyellow;
+        text-align: center;
+        position: relative;
+        top: -455px;
+        left: 5px;
+    }
+
+    h3:hover { 
+        text-shadow: 0 0 5px #fff;
+      }
+
+    h4{
+        font-family: "matrix";
+        font-size: 30px;
+        color:greenyellow;
+        text-align: center;
+        position: relative;
+        top: -375px;
+        left: -160px;
+    }
+
+    h5{
+        font-family: "matrix";
+        font-size: 30px;
+        color:greenyellow;
+        text-align: center;
+        position: relative;
+        top: -315px;
+        left: -150px;
+    }
+
+
+    h6{
+        font-family: "melted monster";
+        font-size: 28px;
+        color: rgb(149, 228, 31);
+        text-align: center;
+        position: relative;
+        top: -410px;
+        left: -175px;
+    }
+
+    textarea {
+        border: 3px solid greenyellow;
+        padding: 5px;
+        background-color: #000;
+        color:rgb(28, 202, 28);
+        position: relative;
+        top: -220px;
+        right: -450px;
+        resize: none;
+    }
+
+    .caixa-texto {
+        border: 3px solid greenyellow;
+        padding: 5px;
+        background-color: #000;
+        color:rgb(28, 202, 28);
+        position: relative;
+        top: -345px;
+        right: -450px;
+        resize: none;
+    }
+
+    .key-caixa-texto{
+        font-family: "melted monster";
+        padding: 5px;
+        background-color: #000;
+        color: rgb(28, 202, 28);
+        position: relative;
+        top: -465px;
+        right: -450px;
+        resize: none;
+    }
+
+    button {
+        font-family: "matrix";
+        background-color: #065c0a;
+        color: greenyellow;
+        padding: 10px 20px;
+        font-size: 16px;
+        border: none;
+        border-radius: 5px;
+        position: relative;
+        top: -525px;
+        right: -500px;
+    }
+
+    button:hover {
+        text-shadow: 0 0 5px #fff;
+      }
+
+    .buttonDecodify{
+        font-family: "matrix";
+        background-color: #065c0a;
+        color: greenyellow;
+        padding: 10px 20px;
+        font-size: 16px;
+        border: none;
+        border-radius: 5px;
+        position: relative;
+        top: -375px;
+        right: -420px;
+    }
