@@ -3,3 +3,28 @@
 body{
     background-color: black;
 }
+
+h1{
+    color: green;
+    font-family: "matrix";
+    font-size: 108px;
+    text-align: center;
+}
+
+p{
+    color: greenyellow;
+    font-family: "matrix";
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    font-family: "matrix";
+    font-size: 30px;
+    color: greenyellow;
+    text-align: center;
+}
+
+h2:hover { 
+    text-shadow: 0 0 5px #fff;
+  }
